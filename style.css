@@ -9,14 +9,14 @@ body {
 }
 
 .luffy1 {
-    width: 15%;
+    width: 20%;
     display: block;
     margin: 0 auto;
     pointer-events: none;
 }
 
 .luffy2 {
-    width: 15%;
+    width: 20%;
     position: absolute;
     top: 42%;
     left: 46%;
